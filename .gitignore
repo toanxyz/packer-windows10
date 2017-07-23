@@ -1,0 +1,8 @@
+.DS_Store
+/iso/*
+!/iso/README.md
+/output-virtualbox/
+/output-virtualbox-iso/
+/output-virtualbox-ovf/
+/*.box
+/packer_cache/
